@@ -1,0 +1,15 @@
+{
+  "name": "05-06-23_mongodb",
+  "version": "1.0.0",
+  "description": "05-06-23_MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.2.2"
+  }
+}
